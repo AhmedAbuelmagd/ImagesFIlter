@@ -1,0 +1,69 @@
+
+[
+    {
+        "id": 1,
+        "title": "Pointillize",
+        "name": "CIPointillize",
+        "isSelected": false
+    },
+    {
+        "id": 2,
+        "title": "CubeWithColorSpace",
+        "name": "CIColorCubeWithColorSpace",
+        "isSelected": false
+    },
+    {
+        "id": 3,
+        "title": "Posterize",
+        "name": "CIColorPosterize",
+        "isSelected": false
+    },
+    {
+        "id": 4,
+        "title": "Crystallize",
+        "name": "CICrystallize",
+        "isSelected": false
+    },
+    {
+        "id": 5,
+        "title": "Invert",
+        "name": "CIColorInvert",
+        "isSelected": false
+    },
+    {
+        "id": 6,
+        "title": "Monochrome",
+        "name": "CIColorMonochrome",
+        "isSelected": false
+    },
+    {
+        "id": 7,
+        "title": "FalseColor",
+        "name": "CIFalseColor",
+        "isSelected": false
+    },
+    {
+        "id": 8,
+        "title": "MaximumComponent",
+        "name": "CIMaximumComponent",
+        "isSelected": false
+    },
+    {
+        "id": 9,
+        "title": "MinimumComponent",
+        "name": "CIMinimumComponent",
+        "isSelected": false
+    },
+    {
+        "id": 10,
+        "title": "LineOverlay",
+        "name": "CILineOverlay",
+        "isSelected": false
+    },
+    {
+        "id": 11,
+        "title": "PhotoEffectChrome",
+        "name": "CIPhotoEffectChrome",
+        "isSelected": false
+    }
+]
