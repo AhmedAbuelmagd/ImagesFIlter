@@ -1,4 +1,4 @@
-# ImagesFIlter
+# ImagesFilter
 
 
 - filter screen with default image
